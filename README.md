@@ -1,11 +1,8 @@
-![Logo](https://raw.githubusercontent.com/ZATHENA-VENTURES/SmokeShopBTX-Website/main/logo.png)
+# SmokeShopBTX-Website
 
-## SmokeShopBTX-Website (Public Version)
+This is a **public version** of the private repository. It contains general information about the project but omits any deployment, credentials, or sensitive internal processes.
 
-The website for collection of smoke shops in the Burleson, TX area to manage customer purchases and online orders. This is a public version of the private repository. Visit the live site: [SmokeShopBTX-Website](https://github.com/ZATHENA-VENTURES/SmokeShopBTX-Website)
+**Project Description:**  
+The website for collection of smoke shops in the Burleson, TX area to manage customer purchases and online orders
 
-### Key Features & Services
-- [Add public-facing features here]
-
-### How to Learn More
-Visit the official website to explore this project in detail.
+Website: https://smokeshopbtx.zathenaventures.xyz
